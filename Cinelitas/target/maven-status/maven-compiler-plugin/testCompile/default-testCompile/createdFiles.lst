@@ -1,0 +1,10 @@
+com\Cinelitas\demo\controller\Peliculacontroller.class
+com\Cinelitas\demo\entity\Peliculas.class
+com\Cinelitas\demo\entity\Salas.class
+com\Cinelitas\demo\repository\Pelicularepository.class
+com\Cinelitas\demo\service\Peliculasservice.class
+com\Cinelitas\demo\service\Salasservice.class
+com\Cinelitas\demo\service\ISalasservice.class
+com\Cinelitas\demo\service\IPeliculasservice.class
+com\Cinelitas\demo\repository\Salarepository.class
+com\Cinelitas\demo\DemoApplicationTests.class
